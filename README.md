@@ -4,9 +4,12 @@ Mask detector
 <br>
 </h1>
 
-<h1 align="center">
-    <img src="https://github.com/sebapratto/App-News/blob/master/imageAssets/screen-w.png" width=439 height=812/>
-</h1>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/sebapratto/ML-MaskDetection/blob/master/demo/demo1.gif" height=260 width=520/></td>
+    <td><img src="https://github.com/sebapratto/ML-MaskDetection/blob/master/demo/demo2.gif" height=260 width=520/></td>
+  </tr>
+</table>
 
 ## Contact
 pratto.sebastian.ignacio@gmail
